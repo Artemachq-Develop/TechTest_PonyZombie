@@ -1,4 +1,8 @@
 # TechTest_PonyZombie
+![ScreenShot_20230914061822](https://github.com/Artemachq-Develop/TechTest_PonyZombie/assets/22640434/a58523e3-c19b-4ead-896b-a814b5bd6d13)
+## Look Video Demo
+[![Watch the video](https://cdn.gtricks.com/2017/09/YouTube-Logo.png)](https://youtu.be/mETG6NLRYvA)
+
 Необходимо разработать прототип игрового уровня со следующими условиями.
 
 **Механика:**
